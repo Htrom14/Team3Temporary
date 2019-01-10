@@ -5,5 +5,6 @@ public class teamlist{
         System.out.println("James Petullo");
         System.out.println("Luke Ypsilantis");
         System.out.println("Hannah Baez");
+        System.out.println("Tina King");
     }
 }
