@@ -3,5 +3,6 @@ public class teamlist{
     {
         System.out.println("Jonathan Sanchez");
         System.out.println("James Petullo");
+        System.out.println("Hannah Baez");
     }
 }
